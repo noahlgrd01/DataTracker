@@ -1,7 +1,6 @@
 ![Screenshot](logo.png)
 # **Data Tracker** [@noah_lgrd_01](https://instagram.com/noah_lgrd_01?igshid=YmMyMTA2M2Y=)
 ## v1.0
-### Application permettant à l'utilisateur de savoir s'il est dans une zone blanche
 
 <br>
 
