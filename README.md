@@ -9,8 +9,4 @@
 
 <br>
 
-> Accès à la localisation, aux données mobiles, aux notifications, aux stockage du téléphone.
-
-> Android 8.0 ou supérieur
-
-> Disponible seulement sur Android
+>Accès à la localisation, aux données mobiles, aux notifications, aux stockage du téléphone.<br>Android 8.0 ou supérieur.<br>Disponible seulement sur Android.
