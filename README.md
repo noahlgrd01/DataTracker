@@ -10,3 +10,4 @@
 <br>
 
 >Accès à la localisation, aux données mobiles, aux notifications, aux stockage du téléphone.<br>Android 8.0 ou supérieur.<br>Disponible seulement sur Android.
+>License CC BY-ND
